@@ -9,7 +9,7 @@
 
 # 👋 Hi!
 
-I'm Luca Schildwaechter [(Luca Schildi)](https://info.lschildi.de), software engineer, network and security expert, and a HomeLab enthusiast.  I create scripts for fun and to track my changes. Some loose and random scripts might be pubished but not constantly updated.  
+I'm Luca Schildwaechter [(Luca Schildi)](https://info.lschildi.de), network engineer, security expert, and a HomeLab enthusiast.  I create scripts for fun and to track my changes. Some loose and random scripts might be pubished but not constantly updated.  
 
 # 🧑‍💻 My open source repos
 
