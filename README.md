@@ -17,6 +17,4 @@ I'm Luca Schildwaechter [(Luca Schildi)](https://info.lschildi.de), network engi
 
 # 📊 My Stats
 
-[![LucaSchildi's github stats](https://github-readme-stats.vercel.app/api?username=SchhildiLuca&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/SchhildiLuca)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SchhildiLuca&theme=dark&count_private=true&theme=radical)](https://github.com/SchhildiLuca)
+- Sorry none yet.
