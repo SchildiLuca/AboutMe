@@ -3,7 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/SchhildiLuca?logo=GitHub&style=for-the-badge)](https://github.com/SchhildiLuca)
 [![GitHub Stars](https://img.shields.io/github/stars/SchhildiLuca?logo=github&style=for-the-badge)](https://github.com/SchhildiLuca)
-[![Twitter Followers](https://img.shields.io/twitter/follow/LucaSchildi?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/LucaSchildi)
+[![Twitter Followers](https://img.shields.io/twitter/follow/Luca_schildi?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Luca_schildi)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/SchhildiLuca?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/SchhildiLuca)
 
 
