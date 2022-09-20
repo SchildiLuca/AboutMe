@@ -5,7 +5,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/SchildiLuca?logo=github&style=for-the-badge)](https://github.com/SchildiLuca)
 [![Twitter Followers](https://img.shields.io/twitter/follow/Luca_schildi?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Luca_schildi)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/SchildiLuca?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/SchildiLuca)
-
+[![Instagram Followers](https://img.shields.io/badge/Instagram-E4405F?color=0E7FC0&logo=Instagram&style=for-the-badge)](https://www.instagram.com/luca.schildi/)
 
 # 👋 Hi!
 
