@@ -1,10 +1,10 @@
 
 ![Hero image](https://github.com/SchildiLuca/Images/blob/187011fb7b7d6ce26b696a91f626e57415670362/intro.jpeg)
 
-[![GitHub followers](https://img.shields.io/github/followers/SchhildiLuca?logo=GitHub&style=for-the-badge)](https://github.com/SchhildiLuca)
-[![GitHub Stars](https://img.shields.io/github/stars/SchhildiLuca?logo=github&style=for-the-badge)](https://github.com/SchhildiLuca)
+[![GitHub followers](https://img.shields.io/github/followers/SchildiLuca?logo=GitHub&style=for-the-badge)](https://github.com/SchildiLuca)
+[![GitHub Stars](https://img.shields.io/github/stars/SchildiLuca?logo=github&style=for-the-badge)](https://github.com/SchildiLuca)
 [![Twitter Followers](https://img.shields.io/twitter/follow/Luca_schildi?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Luca_schildi)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/SchhildiLuca?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/SchhildiLuca)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/SchildiLuca?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/SchildiLuca)
 
 
 # 👋 Hi!
